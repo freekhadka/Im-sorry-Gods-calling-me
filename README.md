@@ -4,12 +4,12 @@
 - **Field**: 
   - Description: A wide-open space with tall grass or wildflowers, symbolizing freedom and distraction. 
   - Mood: Dark, moody sky to enhance the atmosphere.
-  - ![Field Setting](https://example.com/field-image)
+  - ![Field Setting](./sources/images/champ.JPG)
 
 - **Train Station**: 
   - Description: A structured environment conveying waiting and transitions. 
   - Mood: Dim lighting for intimacy and isolation.
-  - ![Train Station Setting](https://example.com/train-station-image)
+  - ![Train Station Setting](./sources/images/train.jpg)
 
 ## 2. Subjects
 - **Girl**:
@@ -19,60 +19,62 @@
     - Holding flowers in one hand
     - Cigarette in the other
   - **Expression**: Mix of annoyance and longing, emphasizing distraction.
-  - ![Girl in Classy Outfit](https://example.com/girl-outfit-image)
+  - ![Girl in Classy Outfit](./sources/images/champ.JPG)
 
 - **Khadka**:
   - **Attire**: Classy suit (black or dark grey) with a contrasting cravat.
   - **Pose**: Slightly turned away, looking up or to the side as if engaged in conversation.
-  - ![Khadka in Suit](https://example.com/khadka-outfit-image)
+  - ![Khadka in Suit](./sources/images/champ.JPG)
 
 ## 3. Phone Element
 - **Design**: Vintage phone hanging from the sky with a thin, glowing cable.
-  - ![Vintage Phone](https://example.com/vintage-phone-image)
+  - ![Vintage Phone](./sources/images/champ.JPG)
 
 - **Spotlight**: Strong, focused beam illuminating the phone, suggesting divine communication.
-  - ![Spotlight Effect](https://example.com/spotlight-image)
+  - ![Spotlight Effect](./sources/images/champ.JPG)
 
 ## 4. Composition
 - **Framing**: 
   - Girl positioned on the left, angled towards the viewer.
   - Khadka on the right, body language showing engagement with the phone.
-  - ![Framing Example](https://example.com/framing-image)
+  - ![Framing Example](./sources/images/compo.JPG)
 
 - **Cropping**: Emphasize the phone coming from above to create separation.
-  - ![Cropping Example](https://example.com/cropping-image)
+  - ![Cropping Example](./sources/images/champ.JPG)
 
 ## 5. Lighting
 - **Mood**: Soft, diffused lighting for subjects; high contrast for the spotlight on the phone.
-  - ![Dramatic Lighting](https://example.com/dramatic-lighting-image)
+  - ![Dramatic Lighting](./sources/images/champ.JPG)
 
 - **Shadows**: Enhance isolation feel.
-  - ![Shadow Example](https://example.com/shadow-image)
+  - ![Shadow Example](./sources/images/champ.JPG)
 
 ## Additional Ideas
 - **Symbolic Elements**: Incorporate subtle background details (distant figures, nature) suggesting distractions in life.
-  - ![Background Distractions](https://example.com/background-image)
+  - ![Background Distractions](./sources/images/champ.JPG)
 
 - **Color Palette**: Stick to black, white, blue, and green; consider slight tint or overlay hinting at singles' themes.
-  - ![Color Palette](https://example.com/color-palette-image)
+  - ![Color Palette](./sources/images/champ.JPG)
 
 ## Equipment
 - **Camera**: DSLR or mirrorless for low-light photography.
-  - ![Camera Setup](https://example.com/camera-setup-image)
 
 - **Lighting**: 
   - Softboxes or LED panels for even lighting
   - Strong spotlight for phone.
-  - ![Lighting Equipment](https://example.com/lighting-image)
 
 - **Props**: 
   - Vintage phone
   - Flowers
   - Cigarette prop for authenticity.
-  - ![Props Example](https://example.com/props-image)
 
 - **Camera Stand**: Ensure stability for shots.
-  - ![Camera Stand](https://example.com/camera-stand-image)
+
+
+## INSPO
+
+  - ![Ex](./sources/images/ex1.JPG)
+  - ![Ex](./sources/images/ex2.JPG)
 
 
 
