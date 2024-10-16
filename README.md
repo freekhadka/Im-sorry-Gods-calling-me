@@ -30,19 +30,20 @@
     - Holding flowers in one hand
     - Cigarette in the other
   - **Expression**: Mix of annoyance and longing, emphasizing distraction.
-  - ![Girl in Classy Outfit](./sources/images/champ.JPG)
+  - ![Girl in Classy Outfit](./sources/images/dress.jpg)
 
 - **Khadka**:
   - **Attire**: Classy suit (black or dark grey) with a contrasting cravat.
   - **Pose**: Slightly turned away, looking up or to the side as if engaged in conversation.
-  - ![Khadka in Suit](./sources/images/champ.JPG)
+  - ![Khadka in Suit](./sources/images/men.jpg)
 
 ## 3. Phone Element
 - **Design**: Vintage phone hanging from the sky with a thin, glowing cable.
-  - ![Vintage Phone](./sources/images/champ.JPG)
+  - ![Vintage Phone](./sources/images/phone.jpg)
+    - ![Vintage Phone](./sources/images/ex.jpg)
 
 - **Spotlight**: Strong, focused beam illuminating the phone, suggesting divine communication.
-  - ![Spotlight Effect](./sources/images/champ.JPG)
+  - ![Spotlight Effect](./sources/images/spotlight.jpeg)
 
 ## 4. Composition
 - **Framing**: 
@@ -51,18 +52,18 @@
   - ![Framing Example](./sources/images/compo.JPG)
 
 - **Cropping**: Emphasize the phone coming from above to create separation.
-  - ![Cropping Example](./sources/images/champ.JPG)
+
 
 ## 5. Lighting
 - **Mood**: Soft, diffused lighting for subjects; high contrast for the spotlight on the phone.
-  - ![Dramatic Lighting](./sources/images/champ.JPG)
+  - ![Dramatic Lighting](./sources/images/spotlight.jpeg)
 
 - **Shadows**: Enhance isolation feel.
-  - ![Shadow Example](./sources/images/champ.JPG)
+
 
 ## Additional Ideas
 - **Symbolic Elements**: Incorporate subtle background details (distant figures, nature) suggesting distractions in life.
-  - ![Background Distractions](./sources/images/champ.JPG)
+
 
 - **Color Palette**: Stick to black, white, blue, and green; consider slight tint or overlay hinting at singles' themes.
   - ![Color Palette](./sources/images/champ.JPG)
