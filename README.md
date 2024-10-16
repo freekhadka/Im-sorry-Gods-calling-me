@@ -1,5 +1,17 @@
 # Project: "I'M SORRY, GOD'S CALLING ME"
 
+# Project: "I'M SORRY, GOD'S CALLING ME"
+
+## Concept Overview
+
+“I'M SORRY, GOD'S CALLING ME” explores the tension between earthly distractions and spiritual calling. This project encapsulates the struggle of maintaining focus amidst the noise of everyday life. The imagery portrays a man and a woman at a crossroads, symbolizing the choices we face when divine messages beckon us, yet worldly distractions pull us away.
+
+### Themes:
+- **Distraction vs. Purpose**: The girl represents distractions—physical and emotional—while Khadka embodies the pursuit of spiritual clarity.
+- **Isolation and Connection**: The settings illustrate a sense of isolation in the search for connection, whether in a vast field or a crowded train station.
+- **Divine Communication**: The vintage phone signifies a call from God, suggesting that clarity can emerge amidst confusion.
+
+
 ## 1. Setting Choices
 - **Field**: 
   - Description: A wide-open space with tall grass or wildflowers, symbolizing freedom and distraction. 
