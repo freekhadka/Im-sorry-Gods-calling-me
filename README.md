@@ -1,6 +1,5 @@
 # Project: "I'M SORRY, GOD'S CALLING ME"
 
-# Project: "I'M SORRY, GOD'S CALLING ME"
 
 ## Concept Overview
 
